@@ -1,3 +1,4 @@
+import {i18nWord} from "./i18n";
 
 const log = (...x)=>{
     console.log(...x)
@@ -5,7 +6,7 @@ const log = (...x)=>{
 export default {
     install: (app, options) => {
       // Plugin code goes here  
-      log('install', 'app')
+      log(i18nWord(render), 'app')
       
     }
   }
