@@ -24,7 +24,7 @@ export default {
     log("|", i18nWord("install"), "   |");
     log("------------------------");
 
-    log(app);
+    log("\n\n\n", "---", i18nWord("info"), "-------", "\n\n\n");
 
     app.mixin({
       created() {
