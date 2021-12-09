@@ -11,7 +11,8 @@ export default {
     // Plugin code goes here
     options.language && setLanguage(options.language);
 
-
-    log(i18nWord('render'), "app");
+    log('------------------------')
+    log('|',i18nWord('install'),'   |');
+    log('------------------------')
   },
 };
