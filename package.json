@@ -1,0 +1,19 @@
+{
+  "name": "vue-logit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dreamYiZ/vue-logit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamYiZ/vue-logit/issues"
+  },
+  "homepage": "https://github.com/dreamYiZ/vue-logit#readme"
+}
