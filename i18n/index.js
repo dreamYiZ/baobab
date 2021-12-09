@@ -1,4 +1,4 @@
-import * as cn from "./cn";
+import cn from "./cn";
 
 let language;
 let i18n = {
@@ -7,6 +7,7 @@ let i18n = {
 const i18nWord = (word) => {
   const LanguageList = ["cn"];
   if (language && LanguageList.includes(language)) {
+    console.log('i18n[language]', i18n[language])
     return i18n[language].get(word);
   }
   return word;
