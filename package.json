@@ -1,6 +1,6 @@
 {
   "name": "vue-logit",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "logit.js",
   "scripts": {
@@ -10,10 +10,11 @@
     "type": "git",
     "url": "git+ssh://git@github.com/dreamYiZ/vue-logit.git"
   },
-  "author": "",
+  "author": "Baobao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dreamYiZ/vue-logit/issues"
   },
-  "homepage": "https://github.com/dreamYiZ/vue-logit#readme"
+  "homepage": "https://github.com/dreamYiZ/vue-logit#readme",
+  "keywords": ["vue", "log", "debug", "vue lifecycle"]
 }
