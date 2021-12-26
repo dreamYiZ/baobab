@@ -53,3 +53,6 @@ app.mount('#app')
 ```
 
 
+## test use example 
+
+https://github.com/dreamYiZ/test-of-vue-logit
